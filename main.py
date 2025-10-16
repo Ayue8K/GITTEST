@@ -1,1 +1,1 @@
-print('Learn Python With Me')
+print('Play Python With Me')
